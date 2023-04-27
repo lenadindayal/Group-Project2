@@ -22,7 +22,7 @@ Our group used Kaggle to find a dataset suitable for data visualization and anal
 
 ## The 2 questions the team generated and why they are interesting and important:
 1. What location had the most shark attacks in the last 10 years (globally/in the US)
-* a. What country has the most shark attacks
+- a. What country has the most shark attacks
       b. Create a map of the different attacks in that country
 
   The first question we asked related to which country has the most shark attacks in the last ten years. This question is important as it can provide insight into which geographic areas may have a higher risk of shark attacks. This information can be useful for tourists, people going to the beach, and surfers, as well as for coastal communities to help mitigate attacks and for safety measures. By displaying this data with a map, people can see which country has a higher volume of attacks. This question ties to the data set of “Global Shark Attacks.” 
