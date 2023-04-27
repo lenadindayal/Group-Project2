@@ -12,4 +12,4 @@ Carol Hubach -
 
 Lily Athey - 
 
-Valerie Penaranda - 
+Valerie Penaranda - https://github.com/valerieep/Group-Project2
