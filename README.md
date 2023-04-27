@@ -21,18 +21,18 @@ Valerie Penaranda - https://github.com/valerieep/Group-Project2
 Our group used Kaggle to find a dataset suitable for data visualization and analysis. While browsing the available datasets, we were intrigued by the dataset “Global Shark Attacks.” This data set had 16 columns: Case Number, Date, Year, Type, Country, Area, Location, Activity, Name, Sex, Age, Injury, Fatal (Y/N), Time, Species, and Investigator or Source. Case number is the identifier for the attack. “Date” and "Year” correspond to the date and year of the attack. The “Type” column refers to if the attack was provoked, unprovoked or invalid. “Country” has all the countries where the attack happened while “Area” goes more in depth to which specific area in the country. “Location” goes even further and refers to the specific location of the attack. “Activity” details what someone was doing when the attack happened. The “Name” column houses data of all the names of people who were attacked. The “Sex” column refers to the sex of the people who were attacked (M or F). Similarly, the age of the person attacked is in the “Age” column. The “Injury” column stores the injury involved in the attack such as “Lacerations” while “Fatal(Y/N)” column stores whether the person involved in the attack died or not. The column “Time” displays the time of the attack. Next, the column “Species” houses the species of the shark involved in the attack. Lastly, the “Investigator” column has the investigator of the attack and acts as a source column. The dataset also had 6303 rows which means that this dataset went very far back in time (1800s) and recorded attacks since then. Most of the data types in this dataset are String data except for the “Date” column
 
 ## The 2 questions the team generated and why they are interesting and important:
-1. What location had the most shark attacks in the last 10 years (globally/in the US)
-      - What country has the most shark attacks
-      - Create a map of the different attacks in that country
+1. What location had the most shark attacks in the last 10 years (globally/in the US)?  
+      a. What country has the most shark attacks?   
+      b. Create a map of the different attacks in that country?
 
 The first question we asked related to which country has the most shark attacks in the last ten years. This question is important as it can provide insight into which geographic areas may have a higher risk of shark attacks. This information can be useful for tourists, people going to the beach, and surfers, as well as for coastal communities to help mitigate attacks and for safety measures. By displaying this data with a map, people can see which country has a higher volume of attacks. This question ties to the data set of “Global Shark Attacks.” 
 
 Next, we wanted to go a step further and see which specific areas had the most shark attacks in the country with the most shark attacks. By evaluating the prevalence of shark attacks in specific locations, we are able to see which places might be less appealing to travel to due to a high volume of shark attacks. 
 
 
-2. What activities led to the most shark attacks since 1998?
-    - Which of these led to the most fatalities 
-    - How many were provoked vs. unprovoked 
+2. What activities led to the most shark attacks since 1998?  
+      a. Which of these led to the most fatalities?  
+      b. How many were provoked vs. unprovoked 
 
 We posed an overarching question related to which activities led to the most shark attacks. This was important to us to ask because regular civilians might be interested to know which activities have a higher risk of shark attacks for safety purposes. Knowing which activities are more likely to result in shark attacks can help people make informed decisions about how to stay safe in the water. People can take extra safety precautions or avoid those activities altogether if they know which activities are more associated with shark attacks. Similarly, for research purposes, knowing which activities are more likely to result in shark attacks can help researchers better understand shark behavior and ecology. This research can be used to develop measures for reducing the risk of shark attacks, maybe through technology.  Lastly, understanding which activities are more related to shark attacks can inform conservation efforts to protect shark populations. Conservationists can use the data to focus on reducing threats to help protect both sharks and people.
 
