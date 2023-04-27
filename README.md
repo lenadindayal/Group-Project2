@@ -10,9 +10,9 @@ Lena Dindayal - https://github.com/lenadindayal/Group-Project2
 
 Jonathan Troyer - 
 
-Carol Hubach - 
+Carol Hubach - https://github.com/lilyathey/Project2.git
 
-Lily Athey - 
+Lily Athey - https://github.com/carolhubach/Group-Project-2.git
 
 Valerie Penaranda - https://github.com/valerieep/Group-Project2
 
