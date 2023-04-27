@@ -4,12 +4,12 @@
 
 Group 21479_4
 
-Lena Dindayal - https://github.com/lenadindayal/4610-Group-Project-1 
+Lena Dindayal - https://github.com/lenadindayal/Group-Project2
 
-Jonathan Troyer - https://github.com/jonathantroyer31/Group-Project-1
+Jonathan Troyer - 
 
-Carol Hubach - https://github.com/carolhubach/4610-Group-Project-1
+Carol Hubach - 
 
-Lily Athey - https://github.com/lilyathey/MIST-4610-Project-1
+Lily Athey - 
 
-Valerie Penaranda - https://github.com/valerieep/Group-Project1
+Valerie Penaranda - 
