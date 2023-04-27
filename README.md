@@ -8,7 +8,7 @@ Group 21479_4
 
 Lena Dindayal - https://github.com/lenadindayal/Group-Project2
 
-Jonathan Troyer - 
+Jonathan Troyer - https://github.com/jonathantroyer31/Group-Project-2
 
 Carol Hubach - https://github.com/lilyathey/Project2.git
 
